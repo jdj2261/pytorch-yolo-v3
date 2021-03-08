@@ -26,7 +26,7 @@ $ conda activate pytorch-yolo-v3
 - git clone
 
   ```
-  $ https://github.com/ayooshkathuria/pytorch-yolo-v3.git
+  $ git clone https://github.com/ayooshkathuria/pytorch-yolo-v3.git
   $ cd pytorch-yolo-v3
   ```
 
